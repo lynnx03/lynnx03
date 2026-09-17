@@ -3,15 +3,14 @@
 <p align="center">
   AI Technology student at KMITL &nbsp;·&nbsp; Building with Large Language Models
   <br/>
-  Seeking internship opportunities in Machine Learning &amp; Data Science
+  Open to internship opportunities in Machine Learning &amp; Data Science
 </p>
 
 <p align="center">
-  <a href="mailto:padawan.chodhirunkongwut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-padawan.chodhirunkongwut@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;
   <a href="https://github.com/lynnx03">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@lynnx03-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
