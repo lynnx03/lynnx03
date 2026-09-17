@@ -3,7 +3,7 @@
 <p align="center">
   AI Technology student at KMITL &nbsp;·&nbsp; Building with Large Language Models
   <br/>
-  Open to internship opportunities in Machine Learning &amp; Data Science
+  Interested in Machine Learning, Data Science, and LLM engineering
 </p>
 
 <p align="center">
