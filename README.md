@@ -50,12 +50,3 @@ Thai sentiment analysis with WangchanBERTa that detects negative messages and re
 
 **[Thai-Character-Recognition](https://github.com/lynnx03/THAI-CHARACTER-RECOGNITION-)**
 A CNN-based model for recognizing Thai handwritten characters.
-
-<br/>
-
-## GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lynnx03&show_icons=true&hide_border=true&title_color=111111&icon_color=111111&text_color=555555&bg_color=ffffff" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnx03&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff" alt="Top languages" />
-</p>
