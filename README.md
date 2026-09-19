@@ -1,7 +1,7 @@
 <h1 align="center">Padawan Chodhirunkongwut</h1>
 
 <p align="center">
-  AI Technology student at KMITL &nbsp;·&nbsp; Building with Large Language Models
+  Artificial Intelligence Technology student at KMITL &nbsp;·&nbsp; Building with Large Language Models
   <br/>
   Interested in Machine Learning, Data Science, and LLM engineering
 </p>
